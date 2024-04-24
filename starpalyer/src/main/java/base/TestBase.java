@@ -16,7 +16,8 @@ public class TestBase {
 	
 	public TestBase() throws IOException {
 		prop = new Properties();
-		FileInputStream input=new FileInputStream("C://Users//remya//git//DSalgo_SP//starpalyer//src//main//java//config//config.properties");
+		FileInputStream input=new FileInputStream("src//main//java//config//config.properties");
+		//FileInputStream input=new FileInputStream("C://Users//remya//git//DSalgo_SP//starpalyer//src//main//java//config//config.properties");
 		prop.load(input);
 	}
 	
