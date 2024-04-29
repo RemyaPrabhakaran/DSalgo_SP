@@ -14,6 +14,7 @@ public class TestBase {
 	
 	
 	
+	
 	public TestBase() throws IOException {
 		prop = new Properties();
 		FileInputStream input=new FileInputStream("src//main//java//config//config.properties");
@@ -36,5 +37,6 @@ public class TestBase {
 	public static void launchUrl() {
 		driver.get(prop.getProperty("URL"));
 	}
-	
+
+ 
 }

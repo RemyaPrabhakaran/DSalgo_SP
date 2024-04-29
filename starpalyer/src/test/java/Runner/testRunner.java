@@ -10,9 +10,11 @@ import io.cucumber.junit.CucumberOptions;
 		plugin = {"pretty", "html:target/result1.html"}, //reporting purpose
 		monochrome=false,  //console output colour
 	
-		features = {"src/test/resources/Features/homepage.feature"}, //location of feature files
-		glue= "definitions") //location of step definition files
-
+		features = {"src/test/resources/Features"}, //location of feature files
+		glue= "definitions",
+		dryRun = false
+		) //location of step definition files
+        
 public class testRunner {
 
 }
