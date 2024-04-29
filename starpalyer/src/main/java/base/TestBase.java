@@ -26,6 +26,7 @@ public class TestBase {
 		driver= new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get(prop.getProperty("URL"));
+		
 	}
 	
 	public static void browserLaunch() {
@@ -36,5 +37,6 @@ public class TestBase {
 	public static void launchUrl() {
 		driver.get(prop.getProperty("URL"));
 	}
+	
 	
 }
