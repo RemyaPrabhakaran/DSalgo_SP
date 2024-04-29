@@ -16,6 +16,10 @@ public class HomePage_Page extends TestBase{
 	 
 	 @FindBy(xpath="//div[@class='content']//p")
 	 WebElement rightMessage;
+	 @FindBy(xpath="//a[text()=' Register ']") 
+	 WebElement registerInHome;
+	 @FindBy(xpath="//*[@id=\"navbarCollapse\"]//a[text()='Sign in']")
+	 WebElement signIn;
 	 
 	 
 	    public HomePage_Page() throws IOException {
@@ -38,6 +42,10 @@ public class HomePage_Page extends TestBase{
 	        return new IntroductionPage_Page();
 	        
 	    }
+	    
+		public void registerLinkClick() throws IOException {
+			registerInHome.click();
+		}
 	    
 	   
 
