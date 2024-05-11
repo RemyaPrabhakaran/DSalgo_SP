@@ -1,12 +1,15 @@
-
   package Pages;
   
   import java.io.IOException;
   
-  import org.openqa.selenium.By; import org.openqa.selenium.WebElement; import
-  org.openqa.selenium.support.FindBy; import
-  org.openqa.selenium.support.PageFactory;
-  import java.util.concurrent.TimeUnit;
+  import org.openqa.selenium.By; 
+  import org.openqa.selenium.WebElement; 
+  import org.openqa.selenium.support.FindBy; 
+  import org.openqa.selenium.support.PageFactory;
+
+import Log.LoggerLoad;
+
+import java.util.concurrent.TimeUnit;
   import base.TestBase;
   
   public class SigninPage_Page extends TestBase{
@@ -32,6 +35,7 @@
   
   public String verifyPageTitle()
   {
+	  LoggerLoad.info("Verifying the PageTitle");
 	  return driver.getTitle();
   
   }
@@ -42,10 +46,13 @@
 	  username_Text.sendKeys(uname);
 	  password_Text.sendKeys(pwd);
 	  Login_btn.click();
+	  LoggerLoad.info("Logged in with username: "+uname+" and password : "+pwd);
+	  LoggerLoad.info("Login button is clicked");
 	 
   }
   public String fieldValidation(){
       String validationMessage= username_Text.getAttribute("validationMessage");
+      LoggerLoad.info("field Validation Message : "+validationMessage);
       return validationMessage;
   }
   
@@ -56,18 +63,21 @@
   public String invalidCredentialValidation()
   {
 	  String invalidMsg= invalidcredMsg.getText();
+	  LoggerLoad.error("Invalid Login : "+invalidMsg);
 	  return invalidMsg;
   }
   
   public String tooltipValidation()
   {
 	  String tooltipMsg= username_Text.getAttribute("validationMessage");
+	  LoggerLoad.info("Tooltip is displayed as: "+tooltipMsg);
 	  return tooltipMsg;
 			  
   }
   public String tooltippasswordValidation()
   {
 	  String tooltippwdMsg= password_Text.getAttribute("validationMessage");
+	  LoggerLoad.info("Password Validation tooltip message "+tooltippwdMsg);
 	  return tooltippwdMsg;
   }
   

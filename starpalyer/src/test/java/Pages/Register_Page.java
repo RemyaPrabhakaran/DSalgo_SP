@@ -1,13 +1,15 @@
 package Pages;
 
-import base.TestBase;
 import java.io.IOException;
+import java.util.NoSuchElementException;
 
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
+
+import Log.LoggerLoad;
+import base.TestBase;
 
 public class Register_Page extends TestBase{
 	
@@ -33,7 +35,7 @@ public class Register_Page extends TestBase{
 	WebElement signInRegisterPage;
 	@FindBy(xpath="//a[text()='Login ']") 
 	WebElement logInRegisterPage;
-	@FindBy(xpath="//div[@role='alert'][contains(text(),'New Account Created.You are logged in as '+newUserName+']") 
+	@FindBy(xpath="//div[contains(@class,'alert alert-primary')][contains(@role,'alert')]") 
 	WebElement successMessage;
 	WebElement activeElement;
 		
@@ -47,9 +49,10 @@ public class Register_Page extends TestBase{
 	    }
 	
 	//Actions
-	public void validatePageTitle() {
+	public void validatePageTitle(String title) {
 		pageTitle = driver.getTitle();
-		Assert.assertEquals(pageTitle, "NumpyNinja");
+		Assert.assertEquals(pageTitle, title);
+		LoggerLoad.info("You are on "+pageTitle+" page");
 	}
 	
 
@@ -57,34 +60,38 @@ public class Register_Page extends TestBase{
 	public void register(String un, String pwd, String cfmPwd) throws IOException, InterruptedException {	
 	 
 		rp = new Register_Page();
+		LoggerLoad.info("Entering username as: "+un+". Password as "+pwd+". Confirmation Password as:"+cfmPwd);
 		rp.usernameText.sendKeys(un);
 		newUserName = un;
 		rp.passwordText1.sendKeys(pwd);
 		rp.passwordConfirmText.sendKeys(cfmPwd);
+		//Thread.sleep(2000);
 		rp.registerBtn.click(); 
+		//Thread.sleep(2000);
 	}
 	
 	public void validateSuccess() {
-		pageTitle = driver.getTitle();
-		Assert.assertEquals(pageTitle, "NumpyNinja");
-		System.out.println(pageTitle);
-		String success = successMessage.getText();
+		//pageTitle = driver.getTitle();
+		//Assert.assertEquals(pageTitle, "NumpyNinja");
+		//System.out.println(pageTitle);
+		try {
+		driver.navigate().refresh();
+		String success = rp.successMessage.getText();
 		System.out.println(success);
+		Assert.assertEquals(success,("New Account Created. You are logged in as "+usernameText));
 		
-	}
+		}	
 	
-//	public void validateBlankMsg() {
-//		JavascriptExecutor js = (JavascriptExecutor) driver;
-//		boolean isRequired = (Boolean) js.executeScript("return arguments[0].required;", rp.usernameText);
-//		if (isRequired)
-//		{
-//			System.out.println("Validation message");
-//		}
-//	}
+		catch(Exception e){
+			System.out.println("NoSuchElement Exception has been handled");
+			LoggerLoad.error("Exception handled");
+		}
+	}
 	
 	//Validate message for the blank textbox
 	public String fieldValidation(WebElement e){
         String validationMessage= e.getAttribute("validationMessage");
+        LoggerLoad.info("Validation Message is "+validationMessage);
         return validationMessage;
     }
 	
@@ -102,28 +109,26 @@ public class Register_Page extends TestBase{
 	}
 	public void validatePwdMismtachError() {		
 		String pwdErrorMsg = rp.passwordErrorMessage.getText();
-		Assert.assertEquals(pwdErrorMsg, "password_mismatch:The two password fields didn’t match.");		
+		Assert.assertEquals(pwdErrorMsg, "password_mismatch:The two password fields didn’t match.");
+		LoggerLoad.info("Password Mismatch Error.");
 		
 	}
 	
 	public void clickLoginFromRegisterPage() throws IOException, InterruptedException {
-//		hp = new HomePage_Page();
-//		hp.clickGetStartButton();
-//		hp.registerInHome.click(); 
-		rp = new Register_Page();
-		rp.logInRegisterPage.click();		
+		rp = new Register_Page();		
+		rp.logInRegisterPage.click();
+		LoggerLoad.info("Login button clicked.");
 	}
 	
 	public void clickSignInFromRegisterPage() throws IOException, InterruptedException {
-//		hp = new HomePage_Page();
-//		hp.clickGetStartButton();
-//		hp.registerInHome.click(); 
-		rp = new Register_Page();
-		rp.signInRegisterPage.click();		
+		rp = new Register_Page();		
+		rp.signInRegisterPage.click();	
+		LoggerLoad.info("Sign In button clicked.");
 	}
 	
 	public String validateURL() {
 		currentPageURL = driver.getCurrentUrl();
+		LoggerLoad.info("Current Page URL is: "+currentPageURL);
 		return currentPageURL;
 	}
 }

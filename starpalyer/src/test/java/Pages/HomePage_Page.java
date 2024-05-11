@@ -2,13 +2,12 @@ package Pages;
 
 import java.io.IOException;
 
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import Log.LoggerLoad;
 import base.TestBase;
-import junit.framework.Assert;
 
 public class HomePage_Page extends TestBase{
 	 @FindBy(xpath="//button[@class='btn']")
@@ -30,7 +29,7 @@ public class HomePage_Page extends TestBase{
 	    
 	    
 	    public String verifyMessage() {
-	    	
+	    	LoggerLoad.info("Message is verified");
 	    	return rightMessage.getText();
 	    	
 	    	//Assert.assertEquals("You are at the right place",rightMessage.getText() );
@@ -39,12 +38,14 @@ public class HomePage_Page extends TestBase{
 	    public IntroductionPage_Page clickGetStartButton() throws InterruptedException, IOException {
 
 	        btnText.click();
+	        LoggerLoad.info("Introduction Page");
 	        return new IntroductionPage_Page();
 	        
 	    }
 	    
 		public void registerLinkClick() throws IOException {
 			registerInHome.click();
+			LoggerLoad.info("Register link is clicked");
 		}
 	    
 	   

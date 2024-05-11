@@ -33,7 +33,7 @@ Feature: New user registration page
     Then user should be redirected to SignIn page
     And user can enter username and password in signin page
 
-  #Scenario: User clicks Register with valid username and password
-   # When The user clicks register with valid username and password
-   # Then user should be registered successfully
-  #  And user should be redirected to the home page
+  Scenario: User clicks Register with valid username and password
+    When The user clicks register with valid username and password
+    Then user should be registered successfully
+    And user should be redirected to the home page

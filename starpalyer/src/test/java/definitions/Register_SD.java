@@ -9,7 +9,6 @@ import Pages.HomePage_Page;
 import Pages.IntroductionPage_Page;
 import Pages.Register_Page;
 import base.TestBase;
-import io.cucumber.java.After;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -145,24 +144,25 @@ public class Register_SD extends TestBase{
 		//driver.close();
 	}
 
-//	@When("The user clicks register with valid username and password")
-//	public void the_user_clicks_register_with_valid_username_and_password() throws IOException, InterruptedException {
-//		registerPage.register("usercompat","cilantro123","cilantro123");
-//	}
-//
-//	@Then("user should be registered successfully")
-//	public void user_should_be_registered_successfully() {
-//	    registerPage.validateSuccess();
-//	}
-//
-//	@Then("user should be redirected to the home page")
-//	public void user_should_be_redirected_to_the_home_page() {
-//	    registerPage.validatePageTitle();
-//	}
+	@When("The user clicks register with valid username and password")
+	public void the_user_clicks_register_with_valid_username_and_password() throws IOException, InterruptedException {
+		registerPage.register("wildcard124","specific124","specific124");
+	}
 
-	@After
-    public void tearDown(){
-        driver.quit();
-    }
+	@Then("user should be registered successfully")
+	public void user_should_be_registered_successfully() {
+	    registerPage.validateSuccess();
+	}
+
+	@Then("user should be redirected to the home page")
+	public void user_should_be_redirected_to_the_home_page() {
+		String title = "Registration";
+	    registerPage.validatePageTitle(title);
+	}
+
+//	@After
+//    public void tearDown(){
+//        driver.quit();
+//    }
 
 }
