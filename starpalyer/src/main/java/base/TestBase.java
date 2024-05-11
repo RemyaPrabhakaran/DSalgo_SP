@@ -6,6 +6,7 @@ import java.util.Properties;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 public class TestBase {
 	
@@ -24,12 +25,16 @@ public class TestBase {
 	
 	public static void initialization() {
 		
+		//ChromeOptions options = new ChromeOptions();
+		//options.addArguments("--headless");
 		driver= new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get(prop.getProperty("URL"));
 	}
 	
 	public static void browserLaunch() {
+		//ChromeOptions options = new ChromeOptions();
+		//options.addArguments("--headless");
 		driver= new ChromeDriver();
 		driver.manage().window().maximize();
 	}
