@@ -5110,3 +5110,23 @@
 [INFO ]2024-05-1314:59:50.608[main]Log.LoggerLoad1)-Timecomplexity link is clicked
 [INFO ]2024-05-1314:59:50.787[main]Log.LoggerLoad1)-Practice is clicked
 [INFO ]2024-05-1314:59:50.794[main]Log.LoggerLoad1)-Practice page url is https://dsportalapp.herokuapp.com/data-structures-introduction/practice
+[INFO ]2024-05-1314:05:28.559[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:05:28.794[main]Log.LoggerLoad1)-Register link is clicked
+[INFO ]2024-05-1314:05:28.800[main]Log.LoggerLoad1)-Entering username as: . Password as . Confirmation Password as:
+[INFO ]2024-05-1314:05:28.966[main]Log.LoggerLoad1)-Validation Message is Please fill out this field.
+[INFO ]2024-05-1314:05:31.659[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:05:31.946[main]Log.LoggerLoad1)-Register link is clicked
+[INFO ]2024-05-1314:05:31.948[main]Log.LoggerLoad1)-Entering username as: text. Password as . Confirmation Password as:
+[INFO ]2024-05-1314:05:32.264[main]Log.LoggerLoad1)-Validation Message is Please fill out this field.
+[INFO ]2024-05-1314:05:34.761[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:05:35.073[main]Log.LoggerLoad1)-Register link is clicked
+[INFO ]2024-05-1314:05:35.078[main]Log.LoggerLoad1)-Entering username as: text. Password as text123. Confirmation Password as:
+[INFO ]2024-05-1314:05:35.293[main]Log.LoggerLoad1)-Validation Message is Please fill out this field.
+[INFO ]2024-05-1314:05:38.059[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:05:38.362[main]Log.LoggerLoad1)-Register link is clicked
+[INFO ]2024-05-1314:05:38.365[main]Log.LoggerLoad1)-Entering username as: test. Password as test. Confirmation Password as:test123
+[INFO ]2024-05-1314:05:38.753[main]Log.LoggerLoad1)-Password Mismatch Error.
+[INFO ]2024-05-1314:05:41.078[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:05:41.436[main]Log.LoggerLoad1)-Register link is clicked
+[INFO ]2024-05-1314:05:41.643[main]Log.LoggerLoad1)-Login button clicked.
+[INFO ]2024-05-1314:05:41.658[main]Log.LoggerLoad1)-Current Page URL is: https://dsportalapp.herokuapp.com/login
