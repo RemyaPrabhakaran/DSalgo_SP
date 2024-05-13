@@ -14,6 +14,9 @@ public class Datastructure_Page  extends TestBase{
 	WebElement signeduser;
 	@FindBy(xpath="//div[3]/div[1]/div/div/a")
 	WebElement dsgetstartbtn;
+	@FindBy(xpath ="//*[text()='Array']/..//*[text()='Get Started']") 
+	WebElement ArrayGetstarted;
+	@FindBy(xpath="//a[@href='graph'] [text()='Get Started']") WebElement graphGetstarted;
 	
 	public Datastructure_Page() throws IOException {
 		super();
@@ -31,5 +34,17 @@ public class Datastructure_Page  extends TestBase{
 	{
 		dsgetstartbtn.click();
 		return new DatastructureHomePage_Page();
+	}
+	
+	
+	public ArrayPage_Page Arraygetclickstartbutton() throws IOException
+	{
+		ArrayGetstarted.click();
+		return new ArrayPage_Page();
+	}
+	
+	public Graph_page graphgetclickstartbutton() throws IOException {
+		graphGetstarted.click();
+		return new Graph_page();
 	}
 }
