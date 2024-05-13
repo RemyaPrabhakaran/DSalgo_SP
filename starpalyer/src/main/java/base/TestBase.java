@@ -6,6 +6,7 @@ import java.util.Properties;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class TestBase {
 	
@@ -23,15 +24,40 @@ public class TestBase {
 	}
 	
 	public static void initialization() {
+		String browserName = prop.getProperty("browser");
+		if(browserName.equals("chrome")) {
+			driver= new ChromeDriver();
+			//driver.manage().window().maximize();
+			driver.get(prop.getProperty("URL"));
+		}
+		else if(browserName.equals("firefox") ){
+			driver= new FirefoxDriver();
+			//driver.manage().window().maximize();
+			driver.get(prop.getProperty("URL"));
+		}
 		
-		driver= new ChromeDriver();
-		driver.manage().window().maximize();
-		driver.get(prop.getProperty("URL"));
+		
+		//driver= new ChromeDriver();
+		//driver.manage().window().maximize();
+		//driver.get(prop.getProperty("URL"));
+		
 	}
 	
 	public static void browserLaunch() {
-		driver= new ChromeDriver();
-		driver.manage().window().maximize();
+		String browserName = prop.getProperty("browser");
+		if(browserName.equals("chrome")) {
+			driver= new ChromeDriver();
+			//driver.manage().window().maximize();
+			//driver.get(prop.getProperty("URL"));
+		}
+		else if(browserName.equals("firefox") ){
+			driver= new FirefoxDriver();
+			//driver.manage().window().maximize();
+			//driver.get(prop.getProperty("URL"));
+		}
+		
+		//driver= new ChromeDriver();
+		//driver.manage().window().maximize();
 	}
 	
 	public static void launchUrl() {

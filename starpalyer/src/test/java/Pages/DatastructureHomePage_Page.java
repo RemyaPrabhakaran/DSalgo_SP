@@ -21,7 +21,7 @@ public class DatastructureHomePage_Page extends TestBase {
 	
 	public String verifydsIntropage() throws InterruptedException
 	{
-		Thread.sleep(3000);
+		
 		String dsIntro = driver.getTitle();
 		return dsIntro;
 	
@@ -33,3 +33,4 @@ public class DatastructureHomePage_Page extends TestBase {
     	return  new TimecomplexityPage_Page();
     }
 }
+

@@ -35,25 +35,21 @@ public class IntroductionPage_SD extends TestBase {
 	@When("The user clicks on sign in link")
 	public void the_user_clicks_on_sign_in_link() throws InterruptedException, IOException {
 		introductionPage.clickSignin();
-		System.out.println("clicks on Sign In link");
+		
 	}
 
 	@Then("User redirects to signin page")
 	public void user_redirects_to_signin_page() {
-		System.out.println("User lands in sign in page");
-		//String usernameLbl = signinPage.verifyUsernameLabel();
-		//Assert.assertEquals(usernameLbl, "Username");
-	//	String passwordLbl= signinPage.verifyPasswordLabel();
-	//	Assert.assertEquals(passwordLbl, "Password");
+		
 		String pageTitle=signinPage.verifyPageTitle();
-		System.out.println(pageTitle);
+		
 		Assert.assertEquals(pageTitle,"Login");
 	   
 	}
 	
-	 @After
-	    public void tearDown(){
-	        driver.quit();
-	    }
-
+	@After
+	public void tearDownIntro() {
+		driver.quit();
+	}
+	
 }

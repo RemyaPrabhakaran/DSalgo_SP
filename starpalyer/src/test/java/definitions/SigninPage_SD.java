@@ -239,13 +239,6 @@ public class SigninPage_SD extends TestBase {
 	}
 
 
-	
-	
-	
-	 @After
-	    public void tearDown(){
-	        driver.quit();
-	    }
 
 
 

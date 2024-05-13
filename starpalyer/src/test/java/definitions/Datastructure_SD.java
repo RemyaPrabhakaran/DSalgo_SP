@@ -6,9 +6,11 @@ import Pages.DatastructureHomePage_Page;
 import Pages.Datastructure_Page;
 import Pages.HomePage_Page;
 import Pages.IntroductionPage_Page;
+import Pages.PracticePage_Page;
 import Pages.SigninPage_Page;
 import Pages.TimecomplexityPage_Page;
 import base.TestBase;
+import io.cucumber.java.After;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -22,6 +24,7 @@ public class Datastructure_SD extends TestBase
 	Datastructure_Page  datastructurePage;
 	DatastructureHomePage_Page datastructureHomePage;
 	TimecomplexityPage_Page   timecomplexitypage; 
+	PracticePage_Page practicePage;
 	
 	public Datastructure_SD() throws IOException {
 		super();
@@ -45,7 +48,7 @@ public void the_user_is_on_the_datastructure_homepage() throws InterruptedExcept
 
 @When("The user clicks Get Started button below the Data structures-Introduction")
 public void the_user_clicks_get_started_button_below_the_data_structures_introduction() throws IOException {
-   System.out.println("hello");
+   
    datastructureHomePage = datastructurePage.dataStructuregetclickstartbutton();
 }
 
@@ -53,7 +56,7 @@ public void the_user_clicks_get_started_button_below_the_data_structures_introdu
 public void the_user_should_land_in_data_structures_introduction_page_page() throws IOException, InterruptedException {
 	
     String dshome = datastructureHomePage.verifydsIntropage();
-    System.out.print(dshome);
+    
     Assert.assertEquals(dshome, "Data Structures-Introduction");
 }
 
@@ -73,7 +76,7 @@ public void the_user_is_on_the_data_structure_introduction_page() throws IOExcep
 	datastructureHomePage = datastructurePage.dataStructuregetclickstartbutton();
 	datastructureHomePage= new DatastructureHomePage_Page() ;
 	String dshome1 = datastructureHomePage.verifydsIntropage();
-	System.out.print(dshome1);
+	
 	
    Assert.assertEquals(dshome1, "Data Structures-Introduction");
     
@@ -92,8 +95,28 @@ public void the_user_should_be_redirected_to_time_complexity_page() throws IOExc
 	Assert.assertEquals(tcTitle, "Time Complexity");
 }
 
-
-
-
+@After
+public void tearDownIntro() {
+	driver.quit();
+}
+/*
+ * @Given("The user is on the TimeComplexity Page") public void
+ * the_user_is_on_the_time_complexity_page() throws IOException,
+ * InterruptedException { timecomplexitypage = new TimecomplexityPage_Page();
+ * String tcTitle= timecomplexitypage.verifyTimecomplexity();
+ * Assert.assertEquals(tcTitle, "Time Complexity"); }
+ * 
+ * 
+ * @When("The user clicks the practise questionlink") public void
+ * the_user_clicks_the_practise_questionlink() throws IOException { practicePage
+ * = timecomplexitypage.practiceLinkclick(); }
+ * 
+ * @Then("The user doesn't find any practice problems and page is blank") public
+ * void the_user_doesn_t_find_any_practice_problems_and_page_is_blank() throws
+ * IOException { practicePage = new PracticePage_Page(); String actualUrl=
+ * "https://dsportalapp.herokuapp.com/data-structures-introduction/practice";
+ * String expectedUrl=practicePage.validatePracticePage();
+ * Assert.assertEquals(expectedUrl, actualUrl); }
+ */
 
 }

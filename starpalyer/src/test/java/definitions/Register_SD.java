@@ -47,9 +47,9 @@ public class Register_SD extends TestBase{
 	
 	@Then("The user redirected to empty username textbox")
 	public void the_user_redirected_to_empty_username_textbox() {
-		//a = registerPage.getactiveElement();
+		
 		registerPage.focusValidation(a);
-		//driver.close();
+		
 	}
 	
 	@When("The user clicks register with only username")
@@ -144,6 +144,11 @@ public class Register_SD extends TestBase{
 		registerPage.focusValidation(a);
 		//driver.close();
 	}
+	
+	@After
+	public void tearDownIntro() {
+		driver.quit();
+	}
 
 //	@When("The user clicks register with valid username and password")
 //	public void the_user_clicks_register_with_valid_username_and_password() throws IOException, InterruptedException {
@@ -160,9 +165,6 @@ public class Register_SD extends TestBase{
 //	    registerPage.validatePageTitle();
 //	}
 
-	@After
-    public void tearDown(){
-        driver.quit();
-    }
+	
 
 }
