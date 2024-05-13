@@ -3866,3 +3866,1247 @@
 [INFO ]2024-05-1313:43:07.283[main]Log.LoggerLoad1)-Timecomplexity link is clicked
 [INFO ]2024-05-1313:43:07.452[main]Log.LoggerLoad1)-Practice is clicked
 [INFO ]2024-05-1313:43:07.462[main]Log.LoggerLoad1)-Practice page url is https://dsportalapp.herokuapp.com/data-structures-introduction/practice
+[INFO ]2024-05-1314:46:58.074[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:46:58.511[main]Log.LoggerLoad1)-Register link is clicked
+[INFO ]2024-05-1314:46:58.526[main]Log.LoggerLoad1)-Entering username as: . Password as . Confirmation Password as:
+[INFO ]2024-05-1314:46:58.856[main]Log.LoggerLoad1)-Validation Message is Please fill out this field.
+[INFO ]2024-05-1314:47:02.105[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:47:02.360[main]Log.LoggerLoad1)-Register link is clicked
+[INFO ]2024-05-1314:47:02.362[main]Log.LoggerLoad1)-Entering username as: text. Password as . Confirmation Password as:
+[INFO ]2024-05-1314:47:02.704[main]Log.LoggerLoad1)-Validation Message is Please fill out this field.
+[INFO ]2024-05-1314:47:06.178[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:47:06.444[main]Log.LoggerLoad1)-Register link is clicked
+[INFO ]2024-05-1314:47:06.449[main]Log.LoggerLoad1)-Entering username as: text. Password as text123. Confirmation Password as:
+[INFO ]2024-05-1314:47:06.792[main]Log.LoggerLoad1)-Validation Message is Please fill out this field.
+[INFO ]2024-05-1314:47:09.827[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:47:10.118[main]Log.LoggerLoad1)-Register link is clicked
+[INFO ]2024-05-1314:47:10.120[main]Log.LoggerLoad1)-Entering username as: test. Password as test. Confirmation Password as:test123
+[INFO ]2024-05-1314:47:10.677[main]Log.LoggerLoad1)-Password Mismatch Error.
+[INFO ]2024-05-1314:47:13.694[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:47:13.918[main]Log.LoggerLoad1)-Register link is clicked
+[INFO ]2024-05-1314:47:14.073[main]Log.LoggerLoad1)-Login button clicked.
+[INFO ]2024-05-1314:47:14.080[main]Log.LoggerLoad1)-Current Page URL is: https://dsportalapp.herokuapp.com/login
+[INFO ]2024-05-1314:47:16.783[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:47:17.025[main]Log.LoggerLoad1)-Register link is clicked
+[INFO ]2024-05-1314:47:17.176[main]Log.LoggerLoad1)-Sign In button clicked.
+[INFO ]2024-05-1314:47:17.188[main]Log.LoggerLoad1)-Current Page URL is: https://dsportalapp.herokuapp.com/login
+[INFO ]2024-05-1314:47:20.314[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:47:20.580[main]Log.LoggerLoad1)-Register link is clicked
+[INFO ]2024-05-1314:47:20.583[main]Log.LoggerLoad1)-Entering username as: wildcard124. Password as specific124. Confirmation Password as:specific124
+[ERROR]2024-05-1314:47:21.291[main]Log.LoggerLoad1)-Exception handled
+[INFO ]2024-05-1314:47:21.301[main]Log.LoggerLoad1)-You are on Registration page
+[INFO ]2024-05-1314:47:24.464[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:47:24.704[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:47:25.263[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:47:25.264[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:47:25.659[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:47:25.678[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1314:47:28.924[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:47:29.165[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:47:29.791[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:47:29.792[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:47:30.171[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:47:30.196[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1314:47:30.571[main]Log.LoggerLoad1)-Arrays in Python link is clicked
+[INFO ]2024-05-1314:47:31.244[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:47:31.687[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:47:31.719[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:47:32.111[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1314:47:32.119[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:47:32.176[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:47:35.219[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:47:35.448[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:47:36.078[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:47:36.079[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:47:36.465[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:47:36.481[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1314:47:36.789[main]Log.LoggerLoad1)-Arrays Using List link is clicked
+[INFO ]2024-05-1314:47:37.502[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:47:38.026[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:47:38.066[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:47:38.436[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1314:47:38.442[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:47:38.463[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:47:41.348[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:47:41.587[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:47:42.163[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:47:42.164[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:47:42.493[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:47:42.511[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1314:47:42.837[main]Log.LoggerLoad1)-Basic Operations in Lists link is clicked
+[INFO ]2024-05-1314:47:43.544[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:47:43.981[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:47:44.016[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:47:44.372[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1314:47:44.376[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:47:44.395[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:47:47.400[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:47:47.628[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:47:48.155[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:47:48.155[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:47:48.486[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:47:48.496[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1314:47:48.792[main]Log.LoggerLoad1)-Application of Array is clicked
+[INFO ]2024-05-1314:47:49.614[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:47:49.624[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:47:50.047[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:47:50.080[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:47:50.455[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1314:47:50.458[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:47:53.494[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:47:53.725[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:47:54.304[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:47:54.305[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:47:54.677[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:47:55.009[main]Log.LoggerLoad1)-Arrays in Python link is clicked
+[INFO ]2024-05-1314:47:55.249[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1314:47:55.260[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1314:47:59.348[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:47:59.578[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:48:00.131[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:48:00.132[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:48:00.438[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:48:00.746[main]Log.LoggerLoad1)-Arrays Using List link is clicked
+[INFO ]2024-05-1314:48:00.999[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1314:48:01.008[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1314:48:03.823[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:48:04.075[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:48:04.784[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:48:04.785[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:48:05.114[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:48:05.429[main]Log.LoggerLoad1)-Basic Operations in Lists link is clicked
+[INFO ]2024-05-1314:48:05.639[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1314:48:05.649[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1314:48:09.036[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:48:09.278[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:48:09.831[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:48:09.831[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:48:10.203[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:48:10.210[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1314:48:10.511[main]Log.LoggerLoad1)-Application of Array is clicked
+[INFO ]2024-05-1314:48:10.531[main]Log.LoggerLoad1)-Returning Element link: [[ChromeDriver: chrome on windows (7ab16c6b745814b482f634f7331e6dfd)] -> xpath: //a[text()='Practice Questions']]
+[INFO ]2024-05-1314:48:10.729[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1314:48:10.738[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1314:48:13.714[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:48:13.939[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:48:14.566[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:48:14.566[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:48:14.920[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:48:15.260[main]Log.LoggerLoad1)-Arrays in Python link is clicked
+[INFO ]2024-05-1314:48:15.496[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1314:48:15.506[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1314:48:16.217[main]Log.LoggerLoad1)-Search Array link is clicked
+[INFO ]2024-05-1314:48:16.235[main]Log.LoggerLoad1)-Current url is : https://dsportalapp.herokuapp.com/question/1
+[INFO ]2024-05-1314:48:19.373[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:48:19.601[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:48:20.184[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:48:20.185[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:48:20.590[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:48:20.936[main]Log.LoggerLoad1)-Arrays Using List link is clicked
+[INFO ]2024-05-1314:48:21.138[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1314:48:21.148[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1314:48:21.794[main]Log.LoggerLoad1)-Max consecutive ones link is clicked
+[INFO ]2024-05-1314:48:21.806[main]Log.LoggerLoad1)-Current url is : https://dsportalapp.herokuapp.com/question/2
+[INFO ]2024-05-1314:48:24.771[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:48:25.023[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:48:25.602[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:48:25.602[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:48:25.965[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:48:26.264[main]Log.LoggerLoad1)-Basic Operations in Lists link is clicked
+[INFO ]2024-05-1314:48:26.546[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1314:48:26.555[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1314:48:27.269[main]Log.LoggerLoad1)-Even no of digit link is clicked
+[INFO ]2024-05-1314:48:27.286[main]Log.LoggerLoad1)-Current url is : https://dsportalapp.herokuapp.com/question/3
+[INFO ]2024-05-1314:48:30.136[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:48:30.352[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:48:30.921[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:48:30.921[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:48:31.329[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:48:31.338[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1314:48:31.634[main]Log.LoggerLoad1)-Application of Array is clicked
+[INFO ]2024-05-1314:48:31.653[main]Log.LoggerLoad1)-Returning Element link: [[ChromeDriver: chrome on windows (031104c52c2f89bcf52110e72e17dbba)] -> xpath: //a[text()='Practice Questions']]
+[INFO ]2024-05-1314:48:31.854[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1314:48:31.864[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1314:48:32.661[main]Log.LoggerLoad1)-Square sorted Array link is clicked
+[INFO ]2024-05-1314:48:32.671[main]Log.LoggerLoad1)-Current url is : https://dsportalapp.herokuapp.com/question/4
+[INFO ]2024-05-1314:48:35.592[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:48:35.818[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:48:36.432[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:48:36.432[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:48:36.783[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:48:36.794[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1314:48:37.192[main]Log.LoggerLoad1)-Arrays in Python link is clicked
+[INFO ]2024-05-1314:48:37.423[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1314:48:37.430[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1314:48:38.180[main]Log.LoggerLoad1)-Search Array link is clicked
+[INFO ]2024-05-1314:48:40.107[main]Log.LoggerLoad1)-Run Button is clicked
+[INFO ]2024-05-1314:48:44.794[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:48:45.018[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:48:45.576[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:48:45.576[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:48:45.941[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:48:45.952[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1314:48:46.352[main]Log.LoggerLoad1)-Arrays in Python link is clicked
+[INFO ]2024-05-1314:48:46.567[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1314:48:46.580[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1314:48:47.318[main]Log.LoggerLoad1)-Search Array link is clicked
+[INFO ]2024-05-1314:48:48.241[main]Log.LoggerLoad1)-Run Button is clicked
+[INFO ]2024-05-1314:48:51.339[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:48:51.546[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:48:52.099[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:48:52.100[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:48:52.479[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:48:52.488[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1314:48:52.854[main]Log.LoggerLoad1)-Arrays in Python link is clicked
+[INFO ]2024-05-1314:48:53.168[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1314:48:53.175[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1314:48:53.883[main]Log.LoggerLoad1)-Search Array link is clicked
+[INFO ]2024-05-1314:48:54.754[main]Log.LoggerLoad1)-Submit Button is clicked
+[INFO ]2024-05-1314:48:57.784[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:48:58.045[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:48:58.645[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:48:58.645[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:48:59.037[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1314:48:59.050[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1314:48:59.358[main]Log.LoggerLoad1)-Arrays in Python link is clicked
+[INFO ]2024-05-1314:48:59.593[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1314:48:59.603[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1314:49:00.348[main]Log.LoggerLoad1)-Search Array link is clicked
+[INFO ]2024-05-1314:49:01.168[main]Log.LoggerLoad1)-Submit Button is clicked
+[INFO ]2024-05-1314:49:04.415[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:49:04.633[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:49:05.239[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:49:05.240[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:49:05.525[main]Log.LoggerLoad1)-Get Started button clicked for Data Structures
+[INFO ]2024-05-1314:49:05.554[main]Log.LoggerLoad1)-Page Title is :Data Structures-Introduction
+[INFO ]2024-05-1314:49:08.904[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:49:09.150[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:49:09.817[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:49:09.817[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:49:10.160[main]Log.LoggerLoad1)-Get Started button clicked for Data Structures
+[INFO ]2024-05-1314:49:10.189[main]Log.LoggerLoad1)-Page Title is :Data Structures-Introduction
+[INFO ]2024-05-1314:49:10.440[main]Log.LoggerLoad1)-Timecomplexity link is clicked
+[INFO ]2024-05-1314:49:10.453[main]Log.LoggerLoad1)-Page title is : Time Complexity
+[INFO ]2024-05-1314:49:13.309[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:49:13.525[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:49:14.096[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:49:14.097[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:49:14.380[main]Log.LoggerLoad1)-Get Started button clicked for Graph
+[INFO ]2024-05-1314:49:14.397[main]Log.LoggerLoad1)-Page Title is :Graph
+[INFO ]2024-05-1314:49:17.647[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:49:17.854[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:49:18.392[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:49:18.393[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:49:18.738[main]Log.LoggerLoad1)-Get Started button clicked for Graph
+[INFO ]2024-05-1314:49:19.032[main]Log.LoggerLoad1)-GraphLink clicked
+[INFO ]2024-05-1314:49:19.041[main]Log.LoggerLoad1)-Page Title is :Graph
+[INFO ]2024-05-1314:49:22.227[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:49:22.455[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:49:23.092[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:49:23.092[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:49:23.363[main]Log.LoggerLoad1)-Get Started button clicked for Graph
+[INFO ]2024-05-1314:49:23.788[main]Log.LoggerLoad1)-Graph Representation Link clicked
+[INFO ]2024-05-1314:49:23.810[main]Log.LoggerLoad1)-Page Title is :Graph Representations
+[INFO ]2024-05-1314:49:27.007[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:49:27.245[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:49:27.783[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:49:27.783[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:49:28.218[main]Log.LoggerLoad1)-Get Started button clicked for Graph
+[INFO ]2024-05-1314:49:28.494[main]Log.LoggerLoad1)-GraphLink clicked
+[INFO ]2024-05-1314:49:29.278[main]Log.LoggerLoad1)-Try Here button clicked.
+[INFO ]2024-05-1314:49:29.288[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:49:32.297[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:49:32.511[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:49:33.157[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:49:33.158[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:49:33.467[main]Log.LoggerLoad1)-Get Started button clicked for Graph
+[INFO ]2024-05-1314:49:33.897[main]Log.LoggerLoad1)-Graph Representation Link clicked
+[INFO ]2024-05-1314:49:34.559[main]Log.LoggerLoad1)-Try Here button clicked.
+[INFO ]2024-05-1314:49:34.573[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:49:37.706[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:49:37.945[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:49:38.476[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:49:38.476[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:49:38.811[main]Log.LoggerLoad1)-Get Started button clicked for Graph
+[INFO ]2024-05-1314:49:39.088[main]Log.LoggerLoad1)-GraphLink clicked
+[INFO ]2024-05-1314:49:39.762[main]Log.LoggerLoad1)-Try Here button clicked.
+[INFO ]2024-05-1314:49:40.201[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:49:40.236[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:49:43.346[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:49:43.567[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:49:44.130[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:49:44.131[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:49:44.444[main]Log.LoggerLoad1)-Get Started button clicked for Graph
+[INFO ]2024-05-1314:49:44.844[main]Log.LoggerLoad1)-Graph Representation Link clicked
+[INFO ]2024-05-1314:49:45.535[main]Log.LoggerLoad1)-Try Here button clicked.
+[INFO ]2024-05-1314:49:45.978[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:49:46.014[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:49:49.031[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:49:49.277[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:49:49.845[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:49:49.845[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:49:50.148[main]Log.LoggerLoad1)-Get Started button clicked for Graph
+[INFO ]2024-05-1314:49:50.401[main]Log.LoggerLoad1)-GraphLink clicked
+[INFO ]2024-05-1314:49:51.082[main]Log.LoggerLoad1)-Try Here button clicked.
+[INFO ]2024-05-1314:49:51.471[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1314:49:51.473[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:49:51.494[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:49:54.570[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:49:54.800[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:49:55.385[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:49:55.385[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:49:55.709[main]Log.LoggerLoad1)-Get Started button clicked for Graph
+[INFO ]2024-05-1314:49:56.138[main]Log.LoggerLoad1)-Graph Representation Link clicked
+[INFO ]2024-05-1314:49:56.938[main]Log.LoggerLoad1)-Try Here button clicked.
+[INFO ]2024-05-1314:49:57.371[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1314:49:57.374[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:49:57.392[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:50:00.146[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:50:00.357[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:50:00.942[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:50:00.943[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:50:01.222[main]Log.LoggerLoad1)-Get Started button clicked for Graph
+[INFO ]2024-05-1314:50:01.504[main]Log.LoggerLoad1)-GraphLink clicked
+[INFO ]2024-05-1314:50:01.736[main]Log.LoggerLoad1)-Practice Questions Link clicked.
+[INFO ]2024-05-1314:50:01.745[main]Log.LoggerLoad1)-You are on Page : https://dsportalapp.herokuapp.com/graph/practice
+[INFO ]2024-05-1314:50:04.806[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:50:05.024[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:50:05.682[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:50:05.682[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:50:06.027[main]Log.LoggerLoad1)-Get Started button clicked for Graph
+[INFO ]2024-05-1314:50:06.395[main]Log.LoggerLoad1)-Graph Representation Link clicked
+[INFO ]2024-05-1314:50:06.621[main]Log.LoggerLoad1)-Practice Questions Link clicked.
+[INFO ]2024-05-1314:50:06.633[main]Log.LoggerLoad1)-You are on Page : https://dsportalapp.herokuapp.com/graph/practice
+[INFO ]2024-05-1314:50:09.368[main]Log.LoggerLoad1)-Message is verified
+[INFO ]2024-05-1314:50:12.420[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:50:12.642[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:50:12.643[main]Log.LoggerLoad1)-Verifying the PageTitle
+[INFO ]2024-05-1314:50:15.884[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:50:16.140[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:50:16.695[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:50:16.695[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:50:17.019[main]Log.LoggerLoad1)-Get Started button clicked for LinkedList
+[INFO ]2024-05-1314:50:17.033[main]Log.LoggerLoad1)-Page title is : Linked List
+[INFO ]2024-05-1314:50:20.013[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:50:20.237[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:50:20.866[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:50:20.867[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:50:20.891[main]Log.LoggerLoad1)-Page title is : NumpyNinja
+[INFO ]2024-05-1314:50:21.197[main]Log.LoggerLoad1)-Get Started button clicked for LinkedList
+[INFO ]2024-05-1314:50:21.205[main]Log.LoggerLoad1)-Page title is : Linked List
+[INFO ]2024-05-1314:50:21.474[main]Log.LoggerLoad1)-Introduction link is clicked
+[INFO ]2024-05-1314:50:21.488[main]Log.LoggerLoad1)-Page title is : Introduction
+[INFO ]2024-05-1314:50:24.667[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:50:24.910[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:50:25.450[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:50:25.450[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:50:25.460[main]Log.LoggerLoad1)-Page title is : NumpyNinja
+[INFO ]2024-05-1314:50:25.761[main]Log.LoggerLoad1)-Get Started button clicked for LinkedList
+[INFO ]2024-05-1314:50:25.774[main]Log.LoggerLoad1)-Page title is : Linked List
+[INFO ]2024-05-1314:50:26.048[main]Log.LoggerLoad1)-Creating Linked List link is clicked
+[INFO ]2024-05-1314:50:26.061[main]Log.LoggerLoad1)-Page title is : Creating Linked LIst
+[INFO ]2024-05-1314:50:29.147[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:50:29.416[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:50:29.957[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:50:29.958[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:50:30.042[main]Log.LoggerLoad1)-Page title is : NumpyNinja
+[INFO ]2024-05-1314:50:30.359[main]Log.LoggerLoad1)-Get Started button clicked for LinkedList
+[INFO ]2024-05-1314:50:30.373[main]Log.LoggerLoad1)-Page title is : Linked List
+[INFO ]2024-05-1314:50:30.693[main]Log.LoggerLoad1)-Types of Linked List link is clicked
+[INFO ]2024-05-1314:50:30.708[main]Log.LoggerLoad1)-Page title is : Types of Linked List
+[INFO ]2024-05-1314:50:33.690[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:50:33.930[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:50:34.466[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:50:34.467[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:50:34.487[main]Log.LoggerLoad1)-Page title is : NumpyNinja
+[INFO ]2024-05-1314:50:34.825[main]Log.LoggerLoad1)-Get Started button clicked for LinkedList
+[INFO ]2024-05-1314:50:34.839[main]Log.LoggerLoad1)-Page title is : Linked List
+[INFO ]2024-05-1314:50:35.147[main]Log.LoggerLoad1)-Implemented Linked list link is clicked
+[INFO ]2024-05-1314:50:35.161[main]Log.LoggerLoad1)-Page title is : Implement Linked List in Python
+[INFO ]2024-05-1314:50:38.222[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:50:38.450[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:50:39.054[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:50:39.054[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:50:39.078[main]Log.LoggerLoad1)-Page title is : NumpyNinja
+[INFO ]2024-05-1314:50:39.441[main]Log.LoggerLoad1)-Get Started button clicked for LinkedList
+[INFO ]2024-05-1314:50:39.458[main]Log.LoggerLoad1)-Page title is : Linked List
+[INFO ]2024-05-1314:50:39.751[main]Log.LoggerLoad1)-Traversal link is clicked
+[INFO ]2024-05-1314:50:39.761[main]Log.LoggerLoad1)-Page title is : Traversal
+[INFO ]2024-05-1314:50:42.962[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:50:43.186[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:50:43.765[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:50:43.765[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:50:43.803[main]Log.LoggerLoad1)-Page title is : NumpyNinja
+[INFO ]2024-05-1314:50:44.106[main]Log.LoggerLoad1)-Get Started button clicked for LinkedList
+[INFO ]2024-05-1314:50:44.120[main]Log.LoggerLoad1)-Page title is : Linked List
+[INFO ]2024-05-1314:50:44.442[main]Log.LoggerLoad1)-Insertion link is clicked
+[INFO ]2024-05-1314:50:44.453[main]Log.LoggerLoad1)-Page title is : Insertion
+[INFO ]2024-05-1314:50:47.696[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:50:47.919[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:50:48.488[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:50:48.488[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:50:48.501[main]Log.LoggerLoad1)-Page title is : NumpyNinja
+[INFO ]2024-05-1314:50:48.784[main]Log.LoggerLoad1)-Get Started button clicked for LinkedList
+[INFO ]2024-05-1314:50:48.795[main]Log.LoggerLoad1)-Page title is : Linked List
+[INFO ]2024-05-1314:50:49.099[main]Log.LoggerLoad1)-Deletion link is clicked
+[INFO ]2024-05-1314:50:49.111[main]Log.LoggerLoad1)-Page title is : Deletion
+[INFO ]2024-05-1314:50:52.322[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:50:52.554[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:50:53.094[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:50:53.094[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:50:53.103[main]Log.LoggerLoad1)-Page title is : NumpyNinja
+[INFO ]2024-05-1314:50:53.410[main]Log.LoggerLoad1)-Get Started button clicked for LinkedList
+[INFO ]2024-05-1314:50:53.726[main]Log.LoggerLoad1)-Introduction link is clicked
+[INFO ]2024-05-1314:50:54.451[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:50:54.462[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:50:57.435[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:50:57.664[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:50:58.261[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:50:58.262[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:50:58.274[main]Log.LoggerLoad1)-Page title is : NumpyNinja
+[INFO ]2024-05-1314:50:58.623[main]Log.LoggerLoad1)-Get Started button clicked for LinkedList
+[INFO ]2024-05-1314:50:58.901[main]Log.LoggerLoad1)-Creating Linked List link is clicked
+[INFO ]2024-05-1314:50:59.633[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:50:59.642[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:51:02.990[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:51:03.208[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:51:03.804[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:51:03.804[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:51:03.832[main]Log.LoggerLoad1)-Page title is : NumpyNinja
+[INFO ]2024-05-1314:51:04.173[main]Log.LoggerLoad1)-Get Started button clicked for LinkedList
+[INFO ]2024-05-1314:51:04.506[main]Log.LoggerLoad1)-Types of Linked List link is clicked
+[INFO ]2024-05-1314:51:05.348[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:51:05.362[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:51:08.298[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:51:08.521[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:51:09.108[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:51:09.111[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:51:09.204[main]Log.LoggerLoad1)-Page title is : NumpyNinja
+[INFO ]2024-05-1314:51:09.508[main]Log.LoggerLoad1)-Get Started button clicked for LinkedList
+[INFO ]2024-05-1314:51:09.800[main]Log.LoggerLoad1)-Implemented Linked list link is clicked
+[INFO ]2024-05-1314:51:10.483[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:51:10.491[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:51:13.582[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:51:13.803[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:51:14.401[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:51:14.401[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:51:14.421[main]Log.LoggerLoad1)-Page title is : NumpyNinja
+[INFO ]2024-05-1314:51:14.780[main]Log.LoggerLoad1)-Get Started button clicked for LinkedList
+[INFO ]2024-05-1314:51:15.084[main]Log.LoggerLoad1)-Traversal link is clicked
+[INFO ]2024-05-1314:51:15.906[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:51:15.921[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:51:18.890[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:51:19.131[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:51:19.689[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:51:19.689[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:51:19.705[main]Log.LoggerLoad1)-Page title is : NumpyNinja
+[INFO ]2024-05-1314:51:20.013[main]Log.LoggerLoad1)-Get Started button clicked for LinkedList
+[INFO ]2024-05-1314:51:20.319[main]Log.LoggerLoad1)-Insertion link is clicked
+[INFO ]2024-05-1314:51:20.995[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:51:21.003[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:51:24.026[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:51:24.246[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:51:24.857[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:51:24.857[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:51:24.867[main]Log.LoggerLoad1)-Page title is : NumpyNinja
+[INFO ]2024-05-1314:51:25.186[main]Log.LoggerLoad1)-Get Started button clicked for LinkedList
+[INFO ]2024-05-1314:51:25.466[main]Log.LoggerLoad1)-Deletion link is clicked
+[INFO ]2024-05-1314:51:26.217[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:51:26.227[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:51:29.264[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:51:29.468[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:51:30.066[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:51:30.066[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:51:30.443[main]Log.LoggerLoad1)-Page title is :Queue
+[INFO ]2024-05-1314:51:34.046[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:51:34.292[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:51:34.834[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:51:34.834[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:51:35.416[main]Log.LoggerLoad1)-Implementation Queue link is clicked
+[INFO ]2024-05-1314:51:35.426[main]Log.LoggerLoad1)-Page title is :Implementation of Queue in Python
+[INFO ]2024-05-1314:51:38.554[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:51:38.793[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:51:39.408[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:51:39.408[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:51:40.045[main]Log.LoggerLoad1)-Implementation Collections link is clicked
+[INFO ]2024-05-1314:51:40.055[main]Log.LoggerLoad1)-Page title is :Implementation using collections.deque
+[INFO ]2024-05-1314:51:42.962[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:51:43.187[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:51:43.755[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:51:43.755[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:51:44.369[main]Log.LoggerLoad1)-Implementation Array link is clicked
+[INFO ]2024-05-1314:51:44.382[main]Log.LoggerLoad1)-Page title is :Implementation using array
+[INFO ]2024-05-1314:51:47.541[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:51:47.800[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:51:48.400[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:51:48.400[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:51:49.092[main]Log.LoggerLoad1)-Operations link is clicked
+[INFO ]2024-05-1314:51:49.118[main]Log.LoggerLoad1)-Page title is :Queue Operations
+[INFO ]2024-05-1314:51:52.190[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:51:52.392[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:51:52.981[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:51:52.982[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:51:53.585[main]Log.LoggerLoad1)-Implementation Queue link is clicked
+[INFO ]2024-05-1314:51:54.277[main]Log.LoggerLoad1)-Try Here button  is clicked
+[INFO ]2024-05-1314:51:54.290[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:51:57.431[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:51:57.660[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:51:58.245[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:51:58.245[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:51:58.852[main]Log.LoggerLoad1)-Implementation Collections link is clicked
+[INFO ]2024-05-1314:51:59.560[main]Log.LoggerLoad1)-Try Here button  is clicked
+[INFO ]2024-05-1314:51:59.573[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:52:02.536[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:52:02.760[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:52:03.399[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:52:03.399[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:52:03.990[main]Log.LoggerLoad1)-Implementation Array link is clicked
+[INFO ]2024-05-1314:52:04.680[main]Log.LoggerLoad1)-Try Here button  is clicked
+[INFO ]2024-05-1314:52:04.694[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:52:07.873[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:52:08.084[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:52:08.715[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:52:08.715[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:52:09.362[main]Log.LoggerLoad1)-Operations link is clicked
+[INFO ]2024-05-1314:52:10.170[main]Log.LoggerLoad1)-Try Here button  is clicked
+[INFO ]2024-05-1314:52:10.181[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:52:13.101[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:52:13.330[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:52:13.894[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:52:13.894[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:52:14.486[main]Log.LoggerLoad1)-Implementation Queue link is clicked
+[INFO ]2024-05-1314:52:15.271[main]Log.LoggerLoad1)-Try Here button  is clicked
+[INFO ]2024-05-1314:52:15.686[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:52:15.714[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:52:18.815[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:52:19.041[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:52:19.596[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:52:19.597[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:52:20.159[main]Log.LoggerLoad1)-Implementation Collections link is clicked
+[INFO ]2024-05-1314:52:20.913[main]Log.LoggerLoad1)-Try Here button  is clicked
+[INFO ]2024-05-1314:52:21.363[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:52:21.394[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:52:24.445[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:52:24.683[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:52:25.333[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:52:25.333[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:52:25.946[main]Log.LoggerLoad1)-Implementation Array link is clicked
+[INFO ]2024-05-1314:52:26.626[main]Log.LoggerLoad1)-Try Here button  is clicked
+[INFO ]2024-05-1314:52:27.147[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:52:27.186[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:52:30.068[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:52:30.298[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:52:30.906[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:52:30.906[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:52:31.542[main]Log.LoggerLoad1)-Operations link is clicked
+[INFO ]2024-05-1314:52:32.306[main]Log.LoggerLoad1)-Try Here button  is clicked
+[INFO ]2024-05-1314:52:32.758[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:52:32.784[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:52:35.743[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:52:35.966[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:52:36.561[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:52:36.563[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:52:37.187[main]Log.LoggerLoad1)-Implementation Queue link is clicked
+[INFO ]2024-05-1314:52:37.972[main]Log.LoggerLoad1)-Try Here button  is clicked
+[INFO ]2024-05-1314:52:38.397[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1314:52:38.401[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:52:38.427[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:52:41.571[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:52:41.766[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:52:42.320[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:52:42.320[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:52:42.869[main]Log.LoggerLoad1)-Implementation Collections link is clicked
+[INFO ]2024-05-1314:52:43.596[main]Log.LoggerLoad1)-Try Here button  is clicked
+[INFO ]2024-05-1314:52:44.001[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1314:52:44.002[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:52:44.015[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:52:47.105[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:52:47.338[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:52:47.974[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:52:47.974[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:52:48.543[main]Log.LoggerLoad1)-Implementation Array link is clicked
+[INFO ]2024-05-1314:52:49.273[main]Log.LoggerLoad1)-Try Here button  is clicked
+[INFO ]2024-05-1314:52:49.720[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1314:52:49.723[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:52:49.741[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:52:52.978[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:52:53.213[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:52:53.754[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:52:53.754[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:52:54.387[main]Log.LoggerLoad1)-Operations link is clicked
+[INFO ]2024-05-1314:52:55.078[main]Log.LoggerLoad1)-Try Here button  is clicked
+[INFO ]2024-05-1314:52:55.505[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1314:52:55.507[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:52:55.520[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:52:58.893[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:52:59.115[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:52:59.693[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:52:59.693[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:53:00.322[main]Log.LoggerLoad1)-Implementation Queue link is clicked
+[INFO ]2024-05-1314:53:00.563[main]Log.LoggerLoad1)-PracticeQuestions  is clicked
+[INFO ]2024-05-1314:53:00.574[main]Log.LoggerLoad1)-The curren url is :https://dsportalapp.herokuapp.com/queue/practice
+[INFO ]2024-05-1314:53:03.389[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:53:03.601[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:53:04.179[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:53:04.180[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:53:04.756[main]Log.LoggerLoad1)-Implementation Collections link is clicked
+[INFO ]2024-05-1314:53:04.929[main]Log.LoggerLoad1)-PracticeQuestions  is clicked
+[INFO ]2024-05-1314:53:04.937[main]Log.LoggerLoad1)-The curren url is :https://dsportalapp.herokuapp.com/queue/practice
+[INFO ]2024-05-1314:53:08.182[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:53:08.394[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:53:09.010[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:53:09.010[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:53:09.622[main]Log.LoggerLoad1)-Implementation Array link is clicked
+[INFO ]2024-05-1314:53:09.809[main]Log.LoggerLoad1)-PracticeQuestions  is clicked
+[INFO ]2024-05-1314:53:09.820[main]Log.LoggerLoad1)-The curren url is :https://dsportalapp.herokuapp.com/queue/practice
+[INFO ]2024-05-1314:53:12.770[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:53:12.977[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:53:13.545[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:53:13.546[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:53:14.077[main]Log.LoggerLoad1)-Operations link is clicked
+[INFO ]2024-05-1314:53:14.271[main]Log.LoggerLoad1)-PracticeQuestions  is clicked
+[INFO ]2024-05-1314:53:14.282[main]Log.LoggerLoad1)-The curren url is :https://dsportalapp.herokuapp.com/queue/practice
+[INFO ]2024-05-1314:53:17.709[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:53:17.956[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:53:18.522[main]Log.LoggerLoad1)-Logged in with username: starplayers and password : star@123
+[INFO ]2024-05-1314:53:18.523[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:53:21.658[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:53:21.883[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:53:22.321[main]Log.LoggerLoad1)-Logged in with username: Starplayer and password : star@123
+[INFO ]2024-05-1314:53:22.321[main]Log.LoggerLoad1)-Login button is clicked
+[ERROR]2024-05-1314:53:22.371[main]Log.LoggerLoad1)-Invalid Login : Invalid Username and Password
+[INFO ]2024-05-1314:53:25.543[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:53:25.775[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:53:26.204[main]Log.LoggerLoad1)-Logged in with username: starplayers and password : Star@123
+[INFO ]2024-05-1314:53:26.204[main]Log.LoggerLoad1)-Login button is clicked
+[ERROR]2024-05-1314:53:26.255[main]Log.LoggerLoad1)-Invalid Login : Invalid Username and Password
+[INFO ]2024-05-1314:53:29.394[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:53:29.621[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:53:30.082[main]Log.LoggerLoad1)-Logged in with username: Starplayer and password : Star@123
+[INFO ]2024-05-1314:53:30.082[main]Log.LoggerLoad1)-Login button is clicked
+[ERROR]2024-05-1314:53:30.128[main]Log.LoggerLoad1)-Invalid Login : Invalid Username and Password
+[INFO ]2024-05-1314:53:33.338[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:53:33.591[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:53:33.864[main]Log.LoggerLoad1)-Logged in with username:  and password : Star@123
+[INFO ]2024-05-1314:53:33.864[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:53:33.895[main]Log.LoggerLoad1)-Tooltip is displayed as: Please fill out this field.
+[INFO ]2024-05-1314:53:37.040[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:53:37.295[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:53:37.508[main]Log.LoggerLoad1)-Logged in with username: Starplayer and password : 
+[INFO ]2024-05-1314:53:37.508[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:53:37.553[main]Log.LoggerLoad1)-Password Validation tooltip message Please fill out this field.
+[INFO ]2024-05-1314:53:40.796[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:53:41.025[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:53:41.252[main]Log.LoggerLoad1)-Logged in with username:  and password : 
+[INFO ]2024-05-1314:53:41.252[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:53:41.275[main]Log.LoggerLoad1)-Tooltip is displayed as: Please fill out this field.
+[INFO ]2024-05-1314:53:44.451[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:53:44.660[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:53:45.290[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star
+[INFO ]2024-05-1314:53:45.290[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:53:48.290[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:53:48.546[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:53:49.155[main]Log.LoggerLoad1)-Logged in with username: username and password : Star@123
+[INFO ]2024-05-1314:53:49.155[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:53:52.287[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:53:52.478[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:53:53.109[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:53:53.109[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:53:56.674[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:53:56.903[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:53:57.480[main]Log.LoggerLoad1)-Logged in with username: Starplayers1 and password : Star@345
+[INFO ]2024-05-1314:53:57.481[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:54:01.046[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:54:01.277[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:54:01.886[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:54:01.886[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:54:02.253[main]Log.LoggerLoad1)-Get Started button clicked for Stack
+[INFO ]2024-05-1314:54:05.382[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:54:05.622[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:54:06.235[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:54:06.235[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:54:06.541[main]Log.LoggerLoad1)-Get Started button clicked for Stack
+[INFO ]2024-05-1314:54:06.915[main]Log.LoggerLoad1)-Page title is : Operations in Stack
+[INFO ]2024-05-1314:54:10.215[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:54:10.468[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:54:11.069[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:54:11.069[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:54:11.386[main]Log.LoggerLoad1)-Get Started button clicked for Stack
+[INFO ]2024-05-1314:54:11.698[main]Log.LoggerLoad1)-Page title is : Implementation
+[INFO ]2024-05-1314:54:14.676[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:54:14.900[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:54:15.447[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:54:15.448[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:54:15.766[main]Log.LoggerLoad1)-Get Started button clicked for Stack
+[INFO ]2024-05-1314:54:16.093[main]Log.LoggerLoad1)-Page title is: Applications
+[INFO ]2024-05-1314:54:19.066[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:54:19.299[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:54:19.867[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:54:19.868[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:54:20.243[main]Log.LoggerLoad1)-Get Started button clicked for Stack
+[INFO ]2024-05-1314:54:21.282[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:54:21.294[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:54:24.233[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:54:24.453[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:54:25.001[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:54:25.001[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:54:25.312[main]Log.LoggerLoad1)-Get Started button clicked for Stack
+[INFO ]2024-05-1314:54:26.350[main]Log.LoggerLoad1)-TryHere button is clicked
+[INFO ]2024-05-1314:54:26.359[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:54:29.418[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:54:29.628[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:54:30.219[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:54:30.219[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:54:30.574[main]Log.LoggerLoad1)-Get Started button clicked for Stack
+[INFO ]2024-05-1314:54:31.594[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:54:31.601[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:54:34.694[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:54:34.894[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:54:35.434[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:54:35.434[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:54:35.735[main]Log.LoggerLoad1)-Get Started button clicked for Stack
+[INFO ]2024-05-1314:54:36.693[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:54:37.090[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:54:37.116[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:54:39.976[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:54:40.177[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:54:40.737[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:54:40.737[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:54:41.127[main]Log.LoggerLoad1)-Get Started button clicked for Stack
+[INFO ]2024-05-1314:54:42.319[main]Log.LoggerLoad1)-TryHere button is clicked
+[INFO ]2024-05-1314:54:42.788[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:54:42.821[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:54:46.105[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:54:46.348[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:54:46.905[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:54:46.905[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:54:47.246[main]Log.LoggerLoad1)-Get Started button clicked for Stack
+[INFO ]2024-05-1314:54:48.291[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:54:48.764[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:54:48.797[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:54:51.823[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:54:52.071[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:54:52.628[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:54:52.629[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:54:52.954[main]Log.LoggerLoad1)-Get Started button clicked for Stack
+[INFO ]2024-05-1314:54:53.978[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:54:54.373[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1314:54:54.376[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:54:54.389[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:54:57.351[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:54:57.579[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:54:58.144[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:54:58.144[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:54:58.479[main]Log.LoggerLoad1)-Get Started button clicked for Stack
+[INFO ]2024-05-1314:54:59.585[main]Log.LoggerLoad1)-TryHere button is clicked
+[INFO ]2024-05-1314:55:00.022[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1314:55:00.029[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:55:00.057[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:55:03.019[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:55:03.240[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:55:03.776[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:55:03.776[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:55:04.062[main]Log.LoggerLoad1)-Get Started button clicked for Stack
+[INFO ]2024-05-1314:55:04.997[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:55:05.407[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1314:55:05.409[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:55:05.422[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:55:08.293[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:55:08.523[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:55:09.066[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:55:09.066[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:55:09.385[main]Log.LoggerLoad1)-Get Started button clicked for Stack
+[INFO ]2024-05-1314:55:13.225[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:55:13.545[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:55:14.221[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:55:14.222[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:55:14.567[main]Log.LoggerLoad1)-Get Started button clicked for Stack
+[INFO ]2024-05-1314:55:18.514[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:55:18.769[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:55:19.404[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:55:19.404[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:55:19.797[main]Log.LoggerLoad1)-Get Started button clicked for Stack
+[INFO ]2024-05-1314:55:23.959[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:55:24.181[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:55:24.692[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:55:24.693[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:55:25.111[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:55:25.150[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:55:28.069[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:55:28.284[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:55:28.933[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:55:28.933[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:55:29.256[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:55:29.586[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:55:29.603[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:55:32.863[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:55:33.091[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:55:33.664[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:55:33.665[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:55:34.035[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:55:34.345[main]Log.LoggerLoad1)-Terminologies link is clicked
+[INFO ]2024-05-1314:55:34.356[main]Log.LoggerLoad1)-Page title is : Terminologies
+[INFO ]2024-05-1314:55:37.427[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:55:37.636[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:55:38.237[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:55:38.237[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:55:38.617[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:55:38.933[main]Log.LoggerLoad1)-Type of Trees link is clicked
+[INFO ]2024-05-1314:55:38.943[main]Log.LoggerLoad1)-Page title is : Types of Trees
+[INFO ]2024-05-1314:55:42.743[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:55:43.000[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:55:43.617[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:55:43.617[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:55:43.985[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:55:44.325[main]Log.LoggerLoad1)- Traversals Illustration link is clicked
+[INFO ]2024-05-1314:55:44.340[main]Log.LoggerLoad1)-Page title is : Traversals-Illustration
+[INFO ]2024-05-1314:55:47.693[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:55:47.951[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:55:48.467[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:55:48.467[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:55:48.843[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:55:49.193[main]Log.LoggerLoad1)- Binary Trees link is clicked
+[INFO ]2024-05-1314:55:49.207[main]Log.LoggerLoad1)-Page title is : Binary Trees
+[INFO ]2024-05-1314:55:52.140[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:55:52.359[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:55:52.956[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:55:52.957[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:55:53.365[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:55:53.819[main]Log.LoggerLoad1)- Types of Binary link is clicked
+[INFO ]2024-05-1314:55:53.832[main]Log.LoggerLoad1)-Page title is : Types of Binary Trees
+[INFO ]2024-05-1314:55:56.871[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:55:57.111[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:55:57.718[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:55:57.719[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:55:58.077[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:55:58.387[main]Log.LoggerLoad1)- Implementation in Python link is clicked
+[INFO ]2024-05-1314:55:58.403[main]Log.LoggerLoad1)-Page title is : Implementation in Python
+[INFO ]2024-05-1314:56:02.142[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:56:02.390[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:56:03.032[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:56:03.032[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:56:03.419[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:56:03.788[main]Log.LoggerLoad1)- Binary Tree Traversals link is clicked
+[INFO ]2024-05-1314:56:03.801[main]Log.LoggerLoad1)-Page title is : Binary Tree Traversals
+[INFO ]2024-05-1314:56:07.278[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:56:07.544[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:56:08.304[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:56:08.305[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:56:08.615[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:56:08.911[main]Log.LoggerLoad1)- Applications of binary Trees link is clicked
+[INFO ]2024-05-1314:56:08.923[main]Log.LoggerLoad1)-Page title is : Applications of Binary trees
+[INFO ]2024-05-1314:56:12.291[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:56:12.522[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:56:13.214[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:56:13.214[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:56:13.512[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:56:13.997[main]Log.LoggerLoad1)- Binary Search Trees link is clicked
+[INFO ]2024-05-1314:56:14.036[main]Log.LoggerLoad1)-Page title is : Binary Search Trees
+[INFO ]2024-05-1314:56:17.532[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:56:17.884[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:56:18.532[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:56:18.532[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:56:18.882[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:56:19.181[main]Log.LoggerLoad1)- BST link is clicked
+[INFO ]2024-05-1314:56:19.191[main]Log.LoggerLoad1)-Page title is : Implementation Of BST
+[INFO ]2024-05-1314:56:22.463[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:56:22.687[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:56:23.388[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:56:23.388[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:56:23.665[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:56:23.711[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:56:23.987[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:56:23.997[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:56:25.011[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:56:25.422[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:56:25.464[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:56:29.176[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:56:29.418[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:56:30.125[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:56:30.126[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:56:30.497[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:56:30.534[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:56:30.825[main]Log.LoggerLoad1)-Terminologies link is clicked
+[INFO ]2024-05-1314:56:30.832[main]Log.LoggerLoad1)-Page title is : Terminologies
+[INFO ]2024-05-1314:56:31.657[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:56:32.087[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:56:32.106[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:56:35.401[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:56:35.633[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:56:36.214[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:56:36.214[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:56:36.636[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:56:36.697[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:56:36.952[main]Log.LoggerLoad1)-Terminologies link is clicked
+[INFO ]2024-05-1314:56:36.960[main]Log.LoggerLoad1)-Page title is : Terminologies
+[INFO ]2024-05-1314:56:37.843[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:56:38.318[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:56:38.345[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:56:41.522[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:56:41.741[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:56:42.369[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:56:42.369[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:56:42.736[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:56:42.769[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:56:43.181[main]Log.LoggerLoad1)- Traversals Illustration link is clicked
+[INFO ]2024-05-1314:56:43.190[main]Log.LoggerLoad1)-Page title is : Traversals-Illustration
+[INFO ]2024-05-1314:56:43.975[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:56:44.429[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:56:44.453[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:56:47.908[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:56:48.133[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:56:48.698[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:56:48.699[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:56:49.040[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:56:49.080[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:56:49.390[main]Log.LoggerLoad1)- Binary Trees link is clicked
+[INFO ]2024-05-1314:56:49.399[main]Log.LoggerLoad1)-Page title is : Binary Trees
+[INFO ]2024-05-1314:56:50.271[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:56:50.705[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:56:50.728[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:56:53.751[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:56:54.013[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:56:54.578[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:56:54.578[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:56:54.932[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:56:54.980[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:56:55.404[main]Log.LoggerLoad1)- Types of Binary link is clicked
+[INFO ]2024-05-1314:56:55.421[main]Log.LoggerLoad1)-Page title is : Types of Binary Trees
+[INFO ]2024-05-1314:56:56.370[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:56:56.825[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:56:56.850[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:56:59.635[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:56:59.819[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:57:00.374[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:57:00.374[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:57:00.767[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:57:00.806[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:57:01.070[main]Log.LoggerLoad1)- Implementation in Python link is clicked
+[INFO ]2024-05-1314:57:01.084[main]Log.LoggerLoad1)-Page title is : Implementation in Python
+[INFO ]2024-05-1314:57:01.974[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:57:02.449[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:57:02.473[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:57:05.425[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:57:05.635[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:57:06.146[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:57:06.147[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:57:06.537[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:57:06.581[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:57:06.930[main]Log.LoggerLoad1)- Binary Tree Traversals link is clicked
+[INFO ]2024-05-1314:57:06.938[main]Log.LoggerLoad1)-Page title is : Binary Tree Traversals
+[INFO ]2024-05-1314:57:07.855[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:57:08.335[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:57:08.352[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:57:11.277[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:57:11.504[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:57:12.097[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:57:12.097[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:57:12.478[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:57:12.519[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:57:12.841[main]Log.LoggerLoad1)- Applications of binary Trees link is clicked
+[INFO ]2024-05-1314:57:12.851[main]Log.LoggerLoad1)-Page title is : Applications of Binary trees
+[INFO ]2024-05-1314:57:13.655[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:57:14.072[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:57:14.094[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:57:17.290[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:57:17.496[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:57:18.081[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:57:18.081[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:57:18.463[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:57:18.502[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:57:18.959[main]Log.LoggerLoad1)- Binary Search Trees link is clicked
+[INFO ]2024-05-1314:57:18.971[main]Log.LoggerLoad1)-Page title is : Binary Search Trees
+[INFO ]2024-05-1314:57:19.781[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:57:20.245[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:57:20.269[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:57:23.395[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:57:23.616[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:57:24.175[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:57:24.175[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:57:24.520[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:57:24.587[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:57:24.845[main]Log.LoggerLoad1)- BST link is clicked
+[INFO ]2024-05-1314:57:24.854[main]Log.LoggerLoad1)-Page title is : Implementation Of BST
+[INFO ]2024-05-1314:57:25.658[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:57:26.152[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:57:26.177[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:57:29.016[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:57:29.215[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:57:29.785[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:57:29.785[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:57:30.153[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:57:30.208[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:57:30.619[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:57:30.636[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:57:31.419[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:57:31.725[main]Log.LoggerLoad1)-Executing Invalid code....
+[WARN ]2024-05-1314:57:31.822[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:57:31.836[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:57:34.746[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:57:34.962[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:57:35.622[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:57:35.625[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:57:36.045[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:57:36.092[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:57:36.475[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:57:36.494[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:57:37.291[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:57:37.623[main]Log.LoggerLoad1)-Executing Invalid code....
+[WARN ]2024-05-1314:57:37.706[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:57:37.721[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:57:40.611[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:57:40.839[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:57:41.453[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:57:41.453[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:57:41.823[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:57:41.888[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:57:42.184[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:57:42.192[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:57:42.944[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:57:43.252[main]Log.LoggerLoad1)-Executing Invalid code....
+[WARN ]2024-05-1314:57:43.359[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:57:43.385[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:57:46.863[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:57:47.076[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:57:47.664[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:57:47.664[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:57:48.093[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:57:48.155[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:57:48.513[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:57:48.522[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:57:49.291[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:57:49.630[main]Log.LoggerLoad1)-Executing Invalid code....
+[WARN ]2024-05-1314:57:49.717[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:57:49.729[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:57:52.955[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:57:53.183[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:57:53.763[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:57:53.763[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:57:54.101[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:57:54.143[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:57:54.455[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:57:54.470[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:57:55.254[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:57:55.601[main]Log.LoggerLoad1)-Executing Invalid code....
+[WARN ]2024-05-1314:57:55.689[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:57:55.703[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:57:58.546[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:57:58.776[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:57:59.361[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:57:59.361[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:57:59.691[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:57:59.734[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:58:00.072[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:58:00.097[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:58:00.982[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:58:01.301[main]Log.LoggerLoad1)-Executing Invalid code....
+[WARN ]2024-05-1314:58:01.391[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:58:01.405[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:58:04.438[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:58:04.656[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:58:05.222[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:58:05.222[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:58:05.548[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:58:05.587[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:58:05.976[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:58:05.990[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:58:06.939[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:58:07.283[main]Log.LoggerLoad1)-Executing Invalid code....
+[WARN ]2024-05-1314:58:07.394[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:58:07.410[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:58:10.513[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:58:10.736[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:58:11.374[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:58:11.374[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:58:11.776[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:58:11.822[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:58:12.210[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:58:12.227[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:58:13.025[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:58:13.355[main]Log.LoggerLoad1)-Executing Invalid code....
+[WARN ]2024-05-1314:58:13.452[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:58:13.467[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:58:16.572[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:58:16.830[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:58:17.409[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:58:17.409[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:58:17.813[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:58:17.866[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:58:18.175[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:58:18.196[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:58:19.153[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:58:19.501[main]Log.LoggerLoad1)-Executing Invalid code....
+[WARN ]2024-05-1314:58:19.606[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:58:19.624[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:58:22.829[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:58:23.052[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:58:23.606[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:58:23.607[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:58:23.988[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:58:24.024[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:58:24.368[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:58:24.378[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:58:25.231[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:58:25.538[main]Log.LoggerLoad1)-Executing Invalid code....
+[WARN ]2024-05-1314:58:25.636[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:58:25.652[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:58:28.598[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:58:28.820[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:58:29.395[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:58:29.395[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:58:29.782[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:58:29.825[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:58:30.100[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:58:30.116[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:58:30.877[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:58:31.178[main]Log.LoggerLoad1)-Executing Invalid code....
+[WARN ]2024-05-1314:58:31.261[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:58:31.272[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1314:58:34.299[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:58:34.524[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:58:35.100[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:58:35.100[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:58:35.462[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:58:35.508[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:58:35.828[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:58:35.839[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:58:36.054[main]Log.LoggerLoad1)-Practice is clicked
+[INFO ]2024-05-1314:58:36.077[main]Log.LoggerLoad1)-Practice page url is https://dsportalapp.herokuapp.com/tree/practice
+[INFO ]2024-05-1314:58:38.885[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:58:39.118[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:58:39.726[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:58:39.726[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:58:40.080[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:58:40.123[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:58:40.491[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:58:40.501[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:58:40.757[main]Log.LoggerLoad1)-Practice is clicked
+[INFO ]2024-05-1314:58:40.770[main]Log.LoggerLoad1)-Practice page url is https://dsportalapp.herokuapp.com/tree/practice
+[INFO ]2024-05-1314:58:43.676[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:58:43.898[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:58:44.449[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:58:44.449[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:58:44.852[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:58:44.902[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:58:45.175[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:58:45.187[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:58:45.371[main]Log.LoggerLoad1)-Practice is clicked
+[INFO ]2024-05-1314:58:45.382[main]Log.LoggerLoad1)-Practice page url is https://dsportalapp.herokuapp.com/tree/practice
+[INFO ]2024-05-1314:58:48.274[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:58:48.508[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:58:49.088[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:58:49.088[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:58:49.386[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:58:49.445[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:58:49.798[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:58:49.805[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:58:50.044[main]Log.LoggerLoad1)-Practice is clicked
+[INFO ]2024-05-1314:58:50.057[main]Log.LoggerLoad1)-Practice page url is https://dsportalapp.herokuapp.com/tree/practice
+[INFO ]2024-05-1314:58:53.281[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:58:53.500[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:58:54.109[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:58:54.109[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:58:54.482[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:58:54.522[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:58:54.885[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:58:54.896[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:58:55.082[main]Log.LoggerLoad1)-Practice is clicked
+[INFO ]2024-05-1314:58:55.095[main]Log.LoggerLoad1)-Practice page url is https://dsportalapp.herokuapp.com/tree/practice
+[INFO ]2024-05-1314:58:57.878[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:58:58.104[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:58:58.694[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:58:58.694[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:58:59.034[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:58:59.082[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:58:59.377[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:58:59.391[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:58:59.590[main]Log.LoggerLoad1)-Practice is clicked
+[INFO ]2024-05-1314:58:59.598[main]Log.LoggerLoad1)-Practice page url is https://dsportalapp.herokuapp.com/tree/practice
+[INFO ]2024-05-1314:59:02.601[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:59:02.846[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:59:03.420[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:59:03.420[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:59:03.837[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:59:03.878[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:59:04.279[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:59:04.296[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:59:04.569[main]Log.LoggerLoad1)-Practice is clicked
+[INFO ]2024-05-1314:59:04.577[main]Log.LoggerLoad1)-Practice page url is https://dsportalapp.herokuapp.com/tree/practice
+[INFO ]2024-05-1314:59:07.558[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:59:07.776[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:59:08.355[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:59:08.355[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:59:08.680[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:59:08.729[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:59:09.207[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:59:09.222[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:59:09.440[main]Log.LoggerLoad1)-Practice is clicked
+[INFO ]2024-05-1314:59:09.448[main]Log.LoggerLoad1)-Practice page url is https://dsportalapp.herokuapp.com/tree/practice
+[INFO ]2024-05-1314:59:12.690[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:59:12.950[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:59:13.510[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:59:13.510[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:59:13.961[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:59:14.012[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:59:14.309[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:59:14.316[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:59:14.511[main]Log.LoggerLoad1)-Practice is clicked
+[INFO ]2024-05-1314:59:14.523[main]Log.LoggerLoad1)-Practice page url is https://dsportalapp.herokuapp.com/tree/practice
+[INFO ]2024-05-1314:59:17.594[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:59:17.806[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:59:18.419[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:59:18.419[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:59:18.793[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:59:18.838[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:59:19.157[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:59:19.168[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:59:19.395[main]Log.LoggerLoad1)-Practice is clicked
+[INFO ]2024-05-1314:59:19.408[main]Log.LoggerLoad1)-Practice page url is https://dsportalapp.herokuapp.com/tree/practice
+[INFO ]2024-05-1314:59:22.436[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:59:22.662[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:59:23.205[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:59:23.205[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:59:23.545[main]Log.LoggerLoad1)-Get Started button clicked for Tree
+[INFO ]2024-05-1314:59:23.589[main]Log.LoggerLoad1)-Page title is : Tree
+[INFO ]2024-05-1314:59:23.896[main]Log.LoggerLoad1)-Overview of Trees link is clicked
+[INFO ]2024-05-1314:59:23.906[main]Log.LoggerLoad1)-Page title is : Overview of Trees
+[INFO ]2024-05-1314:59:24.159[main]Log.LoggerLoad1)-Practice is clicked
+[INFO ]2024-05-1314:59:24.174[main]Log.LoggerLoad1)-Practice page url is https://dsportalapp.herokuapp.com/tree/practice
+[INFO ]2024-05-1314:59:27.335[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:59:27.570[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:59:28.130[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:59:28.130[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:59:28.437[main]Log.LoggerLoad1)-Get Started button clicked for Data Structures
+[INFO ]2024-05-1314:59:28.464[main]Log.LoggerLoad1)-Page Title is :Data Structures-Introduction
+[INFO ]2024-05-1314:59:28.803[main]Log.LoggerLoad1)-Timecomplexity link is clicked
+[INFO ]2024-05-1314:59:29.570[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:59:29.989[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1314:59:30.018[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1314:59:32.941[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:59:33.209[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:59:33.860[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:59:33.860[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:59:34.179[main]Log.LoggerLoad1)-Get Started button clicked for Data Structures
+[INFO ]2024-05-1314:59:34.191[main]Log.LoggerLoad1)-Page Title is :Data Structures-Introduction
+[INFO ]2024-05-1314:59:34.467[main]Log.LoggerLoad1)-Timecomplexity link is clicked
+[INFO ]2024-05-1314:59:35.256[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:59:35.658[main]Log.LoggerLoad1)-Execute without code
+[INFO ]2024-05-1314:59:38.654[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:59:38.908[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:59:39.459[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:59:39.459[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:59:39.826[main]Log.LoggerLoad1)-Get Started button clicked for Data Structures
+[INFO ]2024-05-1314:59:39.837[main]Log.LoggerLoad1)-Page Title is :Data Structures-Introduction
+[INFO ]2024-05-1314:59:40.130[main]Log.LoggerLoad1)-Timecomplexity link is clicked
+[INFO ]2024-05-1314:59:40.934[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1314:59:41.257[main]Log.LoggerLoad1)-Executing Invalid code....
+[WARN ]2024-05-1314:59:46.348[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1314:59:49.226[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1314:59:49.445[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1314:59:50.025[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1314:59:50.025[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1314:59:50.364[main]Log.LoggerLoad1)-Get Started button clicked for Data Structures
+[INFO ]2024-05-1314:59:50.373[main]Log.LoggerLoad1)-Page Title is :Data Structures-Introduction
+[INFO ]2024-05-1314:59:50.608[main]Log.LoggerLoad1)-Timecomplexity link is clicked
+[INFO ]2024-05-1314:59:50.787[main]Log.LoggerLoad1)-Practice is clicked
+[INFO ]2024-05-1314:59:50.794[main]Log.LoggerLoad1)-Practice page url is https://dsportalapp.herokuapp.com/data-structures-introduction/practice
