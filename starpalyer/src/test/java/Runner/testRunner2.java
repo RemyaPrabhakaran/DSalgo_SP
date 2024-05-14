@@ -8,7 +8,9 @@ import io.cucumber.testng.CucumberOptions;
 
 //@RunWith(Cucumber.class)
 @CucumberOptions(
-		plugin = {"pretty", "html:src/test/resources/Reports/TestReport1.html"
+		plugin = {"pretty", "html:src/test/resources/Reports/TestReport1.html",
+				"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
+				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
 				}, //reporting purpose
 		monochrome=false,  //console output colour
 	//threadcount = 3,

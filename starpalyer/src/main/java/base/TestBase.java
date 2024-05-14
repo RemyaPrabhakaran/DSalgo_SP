@@ -41,10 +41,6 @@ public class TestBase {
 		}
 		
 		
-		//driver= new ChromeDriver();
-		//driver.manage().window().maximize();
-		//driver.get(prop.getProperty("URL"));
-		
 	}
 	
 	public static void browserLaunch() {
@@ -53,17 +49,12 @@ public class TestBase {
 			String browserName = prop.getProperty("browser");
 		if(browserName.equals("chrome")) {
 			driver= new ChromeDriver();
-			//driver.manage().window().maximize();
-			//driver.get(prop.getProperty("URL"));
+	
 		}
 		else if(browserName.equals("firefox") ){
 			driver= new FirefoxDriver();
-			//driver.manage().window().maximize();
-			//driver.get(prop.getProperty("URL"));
 		}
 		
-		//driver= new ChromeDriver();
-		//driver.manage().window().maximize();
 	}
 	
 	
