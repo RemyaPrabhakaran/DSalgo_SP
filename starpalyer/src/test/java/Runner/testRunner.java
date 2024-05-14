@@ -8,7 +8,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		plugin = {"pretty", "html:src/test/resources/Reports/TestReport.html",
-				"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
+				"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
 				//"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
 				}, //reporting purpose
 		monochrome=false,  //console output colour
