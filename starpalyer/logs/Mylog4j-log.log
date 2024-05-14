@@ -5648,3 +5648,181 @@
 [INFO ]2024-05-1319:11:46.242[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
 [INFO ]2024-05-1319:11:47.491[main]Log.LoggerLoad1)-Search Array link is clicked
 [INFO ]2024-05-1319:11:47.707[main]Log.LoggerLoad1)-Submit Button is clicked
+[INFO ]2024-05-1319:17:10.491[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:17:10.733[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:17:11.276[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:17:11.278[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:17:11.779[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:17:11.786[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1319:17:14.912[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:17:15.353[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:17:15.919[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:17:15.921[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:17:16.394[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:17:16.400[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1319:17:17.396[main]Log.LoggerLoad1)-Arrays in Python link is clicked
+[INFO ]2024-05-1319:17:18.668[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1319:17:19.228[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1319:17:19.243[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1319:17:19.839[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1319:17:19.848[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1319:17:19.862[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1319:17:22.307[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:17:22.655[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:17:23.256[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:17:23.257[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:17:23.729[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:17:23.738[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1319:17:24.036[main]Log.LoggerLoad1)-Arrays Using List link is clicked
+[INFO ]2024-05-1319:17:25.295[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1319:17:25.704[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1319:17:25.718[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1319:17:26.112[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1319:17:26.115[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1319:17:26.127[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1319:17:28.486[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:17:28.646[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:17:29.261[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:17:29.262[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:17:29.644[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:17:29.649[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1319:17:29.994[main]Log.LoggerLoad1)-Basic Operations in Lists link is clicked
+[INFO ]2024-05-1319:17:31.223[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1319:17:32.435[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1319:17:32.448[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1319:17:33.057[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1319:17:33.060[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1319:17:33.068[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1319:17:35.402[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:17:35.748[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:17:36.358[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:17:36.359[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:17:36.838[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:17:36.849[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1319:17:37.216[main]Log.LoggerLoad1)-Application of Array is clicked
+[INFO ]2024-05-1319:17:38.500[main]Log.LoggerLoad1)-Try Here button is clicked
+[INFO ]2024-05-1319:17:38.505[main]Log.LoggerLoad1)-Page title is : Assessment
+[INFO ]2024-05-1319:17:39.080[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[INFO ]2024-05-1319:17:39.094[main]Log.LoggerLoad1)-Console output is hello
+[INFO ]2024-05-1319:17:39.608[main]Log.LoggerLoad1)-Code is executed and Run button is clicked
+[WARN ]2024-05-1319:17:39.613[main]Log.LoggerLoad1)-NameError: name 'hello' is not defined on line 1
+[INFO ]2024-05-1319:17:42.445[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:17:42.647[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:17:43.211[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:17:43.212[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:17:43.696[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:17:44.245[main]Log.LoggerLoad1)-Arrays in Python link is clicked
+[INFO ]2024-05-1319:17:44.529[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1319:17:44.535[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1319:17:47.028[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:17:47.457[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:17:48.388[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:17:48.388[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:17:48.899[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:17:49.221[main]Log.LoggerLoad1)-Arrays Using List link is clicked
+[INFO ]2024-05-1319:17:49.477[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1319:17:49.481[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1319:17:51.773[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:17:52.083[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:17:52.622[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:17:52.624[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:17:53.099[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:17:53.414[main]Log.LoggerLoad1)-Basic Operations in Lists link is clicked
+[INFO ]2024-05-1319:17:53.657[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1319:17:53.662[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1319:17:55.949[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:17:56.300[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:17:56.806[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:17:56.809[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:17:57.216[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:17:57.221[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1319:17:57.527[main]Log.LoggerLoad1)-Application of Array is clicked
+[INFO ]2024-05-1319:17:57.548[main]Log.LoggerLoad1)-Returning Element link: [[ChromeDriver: chrome on mac (24918ceef31363030e0c144f53e2b86e)] -> xpath: //a[text()='Practice Questions']]
+[INFO ]2024-05-1319:17:57.861[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1319:17:57.865[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1319:18:00.261[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:18:00.523[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:18:01.055[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:18:01.057[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:18:01.487[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:18:02.005[main]Log.LoggerLoad1)-Arrays in Python link is clicked
+[INFO ]2024-05-1319:18:02.186[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1319:18:02.194[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1319:18:03.579[main]Log.LoggerLoad1)-Search Array link is clicked
+[INFO ]2024-05-1319:18:03.583[main]Log.LoggerLoad1)-Current url is : https://dsportalapp.herokuapp.com/question/1
+[INFO ]2024-05-1319:18:06.335[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:18:06.536[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:18:07.194[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:18:07.194[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:18:07.682[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:18:07.990[main]Log.LoggerLoad1)-Arrays Using List link is clicked
+[INFO ]2024-05-1319:18:08.234[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1319:18:08.238[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1319:18:09.327[main]Log.LoggerLoad1)-Max consecutive ones link is clicked
+[INFO ]2024-05-1319:18:09.331[main]Log.LoggerLoad1)-Current url is : https://dsportalapp.herokuapp.com/question/2
+[INFO ]2024-05-1319:18:11.581[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:18:11.985[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:18:12.618[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:18:12.619[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:18:13.169[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:18:13.657[main]Log.LoggerLoad1)-Basic Operations in Lists link is clicked
+[INFO ]2024-05-1319:18:13.993[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1319:18:13.998[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1319:18:15.173[main]Log.LoggerLoad1)-Even no of digit link is clicked
+[INFO ]2024-05-1319:18:15.180[main]Log.LoggerLoad1)-Current url is : https://dsportalapp.herokuapp.com/question/3
+[INFO ]2024-05-1319:18:17.714[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:18:17.895[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:18:18.520[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:18:18.522[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:18:18.970[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:18:18.975[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1319:18:19.427[main]Log.LoggerLoad1)-Application of Array is clicked
+[INFO ]2024-05-1319:18:19.438[main]Log.LoggerLoad1)-Returning Element link: [[ChromeDriver: chrome on mac (37ee57e868abb3163ff71acc51c26eae)] -> xpath: //a[text()='Practice Questions']]
+[INFO ]2024-05-1319:18:19.771[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1319:18:19.781[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1319:18:21.026[main]Log.LoggerLoad1)-Square sorted Array link is clicked
+[INFO ]2024-05-1319:18:21.029[main]Log.LoggerLoad1)-Current url is : https://dsportalapp.herokuapp.com/question/4
+[INFO ]2024-05-1319:18:23.440[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:18:23.591[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:18:24.338[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:18:24.339[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:18:24.716[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:18:24.721[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1319:18:25.211[main]Log.LoggerLoad1)-Arrays in Python link is clicked
+[INFO ]2024-05-1319:18:25.534[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1319:18:25.539[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1319:18:26.743[main]Log.LoggerLoad1)-Search Array link is clicked
+[INFO ]2024-05-1319:18:27.416[main]Log.LoggerLoad1)-Run Button is clicked
+[INFO ]2024-05-1319:18:30.441[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:18:30.758[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:18:31.384[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:18:31.385[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:18:31.779[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:18:31.784[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1319:18:32.341[main]Log.LoggerLoad1)-Arrays in Python link is clicked
+[INFO ]2024-05-1319:18:32.541[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1319:18:32.545[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1319:18:34.258[main]Log.LoggerLoad1)-Search Array link is clicked
+[INFO ]2024-05-1319:18:35.008[main]Log.LoggerLoad1)-Run Button is clicked
+[INFO ]2024-05-1319:18:37.791[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:18:38.188[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:18:38.722[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:18:38.723[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:18:39.203[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:18:39.212[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1319:18:39.767[main]Log.LoggerLoad1)-Arrays in Python link is clicked
+[INFO ]2024-05-1319:18:39.969[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1319:18:39.972[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1319:18:41.370[main]Log.LoggerLoad1)-Search Array link is clicked
+[INFO ]2024-05-1319:18:41.613[main]Log.LoggerLoad1)-Submit Button is clicked
+[INFO ]2024-05-1319:18:44.066[main]Log.LoggerLoad1)-Introduction Page
+[INFO ]2024-05-1319:18:44.256[main]Log.LoggerLoad1)-Sign in is clicked
+[INFO ]2024-05-1319:18:44.919[main]Log.LoggerLoad1)-Logged in with username: Starplayers and password : Star@123
+[INFO ]2024-05-1319:18:44.919[main]Log.LoggerLoad1)-Login button is clicked
+[INFO ]2024-05-1319:18:45.291[main]Log.LoggerLoad1)-Get Started button clicked for Array
+[INFO ]2024-05-1319:18:45.296[main]Log.LoggerLoad1)-Page title is: Array
+[INFO ]2024-05-1319:18:45.747[main]Log.LoggerLoad1)-Arrays in Python link is clicked
+[INFO ]2024-05-1319:18:46.061[main]Log.LoggerLoad1)-Practice Questions is clicked for webelement : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Practice Questions']'
+[INFO ]2024-05-1319:18:46.065[main]Log.LoggerLoad1)-You are in page: https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-05-1319:18:47.211[main]Log.LoggerLoad1)-Search Array link is clicked
+[INFO ]2024-05-1319:18:47.427[main]Log.LoggerLoad1)-Submit Button is clicked
